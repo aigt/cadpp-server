@@ -16,7 +16,7 @@
 		<jstl.version>1.2.1</jstl.version>
 		<javax.version>3.1.0</javax.version>
 		<hibernate-version>5.0.11.Final</hibernate-version>
-		<jackson.version>2.12.2</jackson.version>
+		<jackson.version>2.12.6.1</jackson.version>
 	</properties>
 
 	<dependencies>
